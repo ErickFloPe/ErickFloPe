@@ -20,8 +20,11 @@
 > ![CCS compiler](https://img.shields.io/badge/-CCS%20COMPILER-008DFB?style=for-the-badge&logo=CCS&logoColor=white)
 > ![MULTISIM NI](https://img.shields.io/badge/-Multisim%20NI-036375?style=for-the-badge&logo=NI&logoColor=white)
 > ![PROTEUS](https://img.shields.io/badge/-PROTEUS-036375?style=for-the-badge&logo=Proteus&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> ![Aldec Active HDL](https://img.shields.io/badge/-ALDEC%20ACTIVE%20HDL-00C3E7?style=for-the-badge&logo=aldec&logoColor=white)
+> ![Aldec Active HDL](https://img.shields.io/badge/-ALDEC%20ACTIVE%20HDL-00C3E7?style=for-the-badge&logo=aldec&logoColor=white)
+> ![Quartus ll](https://img.shields.io/badge/-Quartus%20ll-6584B6?style=for-the-badge)
+> 
 ## I'm currently learning 📙
 
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
