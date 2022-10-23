@@ -3,7 +3,7 @@
 
 ## Technologies that I use 👨‍💻
 
-> ![NumPy](https://img.shields.io/badge/-FPGA-blue) 
+> ![NumPy](https://img.shields.io/badge/-FPGA-blue?style=for-the-badge&logo=&logoColor=white) 
 
 
 
