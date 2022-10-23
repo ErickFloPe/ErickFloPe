@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Erick Flores Pérez 👋</h1>
-<img scr="https://tenor.com/view/baby-hello-hello-there-hi-waving-gif-15692366" align="right" width="35%">
+<img src="https://c.tenor.com/U8n9Thgtxm8AAAAC/baby-yoda-hi.gif" align="right" width="35%">
 
 ## Technologies that I use 👨‍💻
 
