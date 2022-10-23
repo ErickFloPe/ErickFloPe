@@ -11,6 +11,7 @@
 > ![VHDL](https://img.shields.io/badge/-VHDL-0FB9EA?style=for-the-badge&logo=intel&logoColor=white)
 > ![PIC Microcontroller](https://img.shields.io/badge/-PIC%20C-FB5000?style=for-the-badge&logo=PIC&logoColor=white)
 > ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+> ![PCB](https://img.shields.io/badge/-PCB-03D022?style=for-the-badge&logo=PCB&logoColor=white)
 > 
 ## Programs and editors that I use 🗒️💻
 
