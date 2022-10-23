@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Erick Flores Pérez 👋</h1>
-<img scr="https://media.tenor.com/xPA2rCeWb7wAAAAM/baby-hello.gif" align="right" width="35%">
+<img scr="https://tenor.com/view/baby-hello-hello-there-hi-waving-gif-15692366" align="right" width="35%">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
