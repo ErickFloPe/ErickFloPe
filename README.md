@@ -4,9 +4,9 @@
 ## Technologies that I use 👨‍💻
 
 > ![FPGA](https://img.shields.io/badge/-FPGA-blue?style=for-the-badge&logo=&logoColor=white) 
-> ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+> ![ARDUINO](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 > ![MATLAB](https://img.shields.io/badge/-Matlab-F8A215?style=for-the-badge&logo=Matlab&logoColor=white) 
-> 
+> ![C/C++](https://img.shields.io/badge/-C/C++-0726A6?style=for-the-badge&logo=C&logoColor=white) 
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
