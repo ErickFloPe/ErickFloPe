@@ -10,7 +10,7 @@
 > ![PLC](https://img.shields.io/badge/-PLC-C01403?style=for-the-badge&logo=PLC&logoColor=white) 
 > ![VHDL](https://img.shields.io/badge/-VHDL-0FB9EA?style=for-the-badge&logo=intel&logoColor=white)
 > 
-## Programs and editors that I use 👨‍💻
+## Programs and editors that I use 🗒️💻
 
 > ![EAGLE](https://img.shields.io/badge/-EAGLE-FA221E?style=for-the-badge&logo=eagle&logoColor=white) 
 
