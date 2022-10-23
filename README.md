@@ -18,7 +18,10 @@
 > ![EAGLE](https://img.shields.io/badge/-EAGLE-FA221E?style=for-the-badge&logo=eagle&logoColor=white) 
 > ![LABVIEW](https://img.shields.io/badge/-LABVIEW-FBE000?style=for-the-badge&logo=lavbview&logoColor=white)
 > ![CCS compiler](https://img.shields.io/badge/-CCS%20COMPILER-008DFB?style=for-the-badge&logo=CCS&logoColor=white)
-
+> ![MULTISIM NI](https://img.shields.io/badge/-Multisim%20NI-036375?style=for-the-badge&logo=NI&logoColor=white)
+> ![PROTEUS](https://img.shields.io/badge/-PROTEUS-036375?style=for-the-badge&logo=Proteus&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
 ## I'm currently learning 📙
 
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
