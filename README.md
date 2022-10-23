@@ -10,9 +10,16 @@
 > ![PLC](https://img.shields.io/badge/-PLC-C01403?style=for-the-badge&logo=PLC&logoColor=white) 
 > ![VHDL](https://img.shields.io/badge/-VHDL-0FB9EA?style=for-the-badge&logo=intel&logoColor=white)
 > ![PIC Microcontroller](https://img.shields.io/badge/-PIC%20C-FB5000?style=for-the-badge&logo=PIC&logoColor=white)
+> ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 > 
 ## Programs and editors that I use 🗒️💻
 
 > ![EAGLE](https://img.shields.io/badge/-EAGLE-FA221E?style=for-the-badge&logo=eagle&logoColor=white) 
 > ![LABVIEW](https://img.shields.io/badge/-LABVIEW-FBE000?style=for-the-badge&logo=lavbview&logoColor=white)
 > ![CCS compiler](https://img.shields.io/badge/-CCS%20COMPILER-008DFB?style=for-the-badge&logo=CCS&logoColor=white)
+
+## I'm currently learning 📙
+
+> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
