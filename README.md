@@ -23,7 +23,7 @@
 > ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 > ![Aldec Active HDL](https://img.shields.io/badge/-ALDEC%20ACTIVE%20HDL-00C3E7?style=for-the-badge&logo=aldec&logoColor=white)
 > ![Aldec Active HDL](https://img.shields.io/badge/-ALDEC%20ACTIVE%20HDL-00C3E7?style=for-the-badge&logo=aldec&logoColor=white)
-> ![Quartus ll](https://img.shields.io/badge/-Quartus%20ll-6584B6?style=for-the-badge)
+> ![Quartus II](https://img.shields.io/badge/-Quartus%20ll-6584B6?style=for-the-badge)
 > 
 ## I'm currently learning 📙
 
